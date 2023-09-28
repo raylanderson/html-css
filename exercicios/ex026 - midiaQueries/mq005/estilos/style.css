@@ -20,7 +20,7 @@ header > h1 {
     text-align: center;
 }
 
-menu {
+i#burguer {
     background-color: rgb(48, 48, 48);
     color: white;
     display: block;
